@@ -4,6 +4,8 @@ Libreta visual de sesiones de control postural y tribunal oral de práctica. Apl
 
 **Usar la app:** https://fborrasumh.github.io/posturia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23863500.svg)](https://doi.org/10.5281/zenodo.23863500)
+
 **Idiomas:** español (por defecto), valenciano/catalán, inglés, portugués; selector en la barra superior (o `?lang=ca` / `?lang=en` / `?lang=pt` en la URL). El valenciano y el portugués deben revisarlos hablantes nativos antes de publicar.
 
 ## Qué hace
@@ -50,7 +52,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Borrás Rocher, F. J. (2026). *PosturIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Borrás Rocher, F. J. (2026). *PosturIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23863500](https://doi.org/10.5281/zenodo.23863500)
 
 ## Licencia
 
